@@ -13,4 +13,7 @@
 void main()
 {
 	int project1;
+	a
+	b
+	c
 }
